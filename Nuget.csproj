@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CascLib" Version="1.0.12" />
+    <PackageReference Include="CsvHelper" Version="15.0.5" />
+    <PackageReference Include="NetVips" Version="1.2.1" />
+    <PackageReference Include="NetVips.Extensions" Version="1.0.2" />
+    <PackageReference Include="NetVips.Native.linux-x64" Version="8.9.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="SereniaBLPLib" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

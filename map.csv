@@ -1,0 +1,1078 @@
+ID,Directory,MapName_lang,WdtFileDataID
+0,Azeroth,Eastern Kingdoms,775971
+1,Kalimdor,Kalimdor,782779
+13,test,Art Team Map,857697
+25,ScottTest,Scott Test,863335
+30,PVPZone01,Alterac Valley,790112
+33,Shadowfang,Shadowfang Keep,790796
+34,StormwindJail,Stormwind Stockade,791060
+35,StormwindPrison,<unused>StormwindPrison,870849
+36,DeadminesInstance,Deadmines,780605
+37,PVPZone02,Azshara Crater,861092
+42,Collin,Collin's Test,863984
+43,WailingCaverns,Wailing Caverns,791429
+44,Monastery,<unused> Monastery,865519
+47,RazorfenKraulInstance,Razorfen Kraul,790640
+48,Blackfathom,Blackfathom Deeps,780169
+70,Uldaman,Uldaman,791372
+90,GnomeragonInstance,Gnomeregan,782773
+109,SunkenTemple,Sunken Temple,791166
+129,RazorfenDowns,Razorfen Downs,790517
+169,EmeraldDream,Emerald Dream,780817
+189,MonasteryInstances,Scarlet Monastery of Old,788662
+209,TanarisInstance,Zul'Farrak,791169
+229,BlackRockSpire,Lower Blackrock Spire,780175
+230,BlackrockDepths,Blackrock Depths,780172
+249,OnyxiaLairInstance,Onyxia's Lair,789922
+269,CavernsOfTime,Opening of the Dark Portal,829736
+289,SchoolofNecromancy,Scholomance OLD,790713
+309,Zul'gurub,Ancient Zul'Gurub,791432
+329,Stratholme,Stratholme,791063
+349,Mauradon,Maraudon,788656
+369,DeeprunTram,Deeprun Tram,780788
+389,OrgrimmarInstance,Ragefire Chasm,789981
+409,MoltenCore,Molten Core,788659
+429,DireMaul,Dire Maul,780814
+449,AlliancePVPBarracks,Alliance PVP Barracks,775968
+450,HordePVPBarracks,Horde PVP Barracks,782776
+451,development,Development Land,857684
+469,BlackwingLair,Blackwing Lair,780178
+489,PVPZone03,Classic Warsong Gulch,790291
+509,AhnQiraj,Ruins of Ahn'Qiraj,775637
+529,PVPZone04,Classic Arathi Basin,790377
+530,Expansion01,Outland,828395
+531,AhnQirajTemple,Ahn'Qiraj Temple,775840
+532,Karazahn,Karazhan,834192
+533,Stratholme Raid,Naxxramas,827115
+534,HyjalPast,The Battle for Mount Hyjal,831824
+540,HellfireMilitary,Hellfire Citadel: The Shattered Halls,831277
+542,HellfireDemon,Hellfire Citadel: The Blood Furnace,830642
+543,HellfireRampart,Hellfire Citadel: Ramparts,832154
+544,HellfireRaid,Magtheridon's Lair,833183
+545,CoilfangPumping,Coilfang: The Steamvault,828422
+546,CoilfangMarsh,Coilfang: The Underbog,831262
+547,CoilfangDraenei,Coilfang: The Slave Pens,830731
+548,CoilfangRaid,Coilfang: Serpentshrine Cavern,829900
+550,TempestKeepRaid,Tempest Keep,832484
+552,TempestKeepArcane,Tempest Keep: The Arcatraz,832070
+553,TempestKeepAtrium,Tempest Keep: The Botanica,833950
+554,TempestKeepFactory,Tempest Keep: The Mechanar,831974
+555,AuchindounShadow,Auchindoun: Shadow Labyrinth,828331
+556,AuchindounDemon,Auchindoun: Sethekk Halls,828811
+557,AuchindounEthereal,Auchindoun: Mana-Tombs,830899
+558,AuchindounDraenei,Auchindoun: Auchenai Crypts,830415
+559,PVPZone05,Nagrand Arena (old),790469
+560,HillsbradPast,The Escape from Durnholde,833998
+562,bladesedgearena,zzOldBlade's Edge Arena,780261
+564,BlackTemple,Black Temple,829630
+565,GruulsLair,Gruul's Lair,833180
+566,NetherstormBG,Eye of the Storm,788893
+568,ZulAman,Zul'Aman,815727
+571,Northrend,Northrend,822688
+572,PVPLordaeron,Ruins of Lordaeron,789984
+573,ExteriorTest,ExteriorTest,855346
+574,Valgarde70,Utgarde Keep,825743
+575,UtgardePinnacle,Utgarde Pinnacle,827661
+576,Nexus70,The Nexus,821331
+578,Nexus80,The Oculus,819814
+580,SunwellPlateau,The Sunwell,832953
+582,Transport176244,Transport: Rut'theran to Auberdine,0
+584,Transport176231,Transport: Menethil to Theramore,0
+585,Sunwell5ManFix,Magisters' Terrace,834223
+586,Transport181645,Transport: Exodar to Auberdine,0
+587,Transport177233,Transport: Feathermoon Ferry,0
+588,Transport176310,Transport: Menethil to Auberdine,0
+589,Transport175080,Transport: Orgrimmar to Grom'Gol,0
+590,Transport176495,Transport: Grom'Gol to Undercity,0
+591,Transport164871,Transport: Undercity to Orgrimmar,0
+592,Transport186238,Transport: Borean Tundra Test,0
+593,Transport20808,Transport: Booty Bay to Ratchet,0
+594,Transport187038,Transport: Howling Fjord Sister Mercy (Quest),0
+595,StratholmeCOT,The Culling of Stratholme,826005
+596,Transport187263,Transport: Naglfar,0
+597,CraigTest,Craig Test,862017
+598,Sunwell5Man,Sunwell Fix (Unused),863869
+599,Ulduar70,Halls of Stone,824642
+600,DrakTheronKeep,Drak'Tharon Keep,820968
+601,Azjol_Uppercity,Azjol-Nerub,818693
+602,Ulduar80,Halls of Lightning,824768
+603,UlduarRaid,Ulduar,825015
+604,GunDrak,Gundrak,818626
+605,development_nonweighted,Development Land (non-weighted textures),857811
+606,QA_DVD,QA and DVD,866654
+607,NorthrendBG,Strand of the Ancients,789579
+608,DalaranPrison,Violet Hold,818205
+609,DeathKnightStart,Ebon Hold,818210
+610,Transport_Tirisfal _Vengeance_Landing,Transport: Tirisfal to Vengeance Landing,0
+612,Transport_Menethil_Valgarde,Transport: Menethil to Valgarde,0
+613,Transport_Orgrimmar_Warsong_Hold,Transport: Orgrimmar to Warsong Hold,0
+614,Transport_Stormwind_Valiance_Keep,Transport: Stormwind to Valiance Keep,0
+615,ChamberOfAspectsBlack,The Obsidian Sanctum,820448
+616,NexusRaid,The Eye of Eternity,822560
+617,DalaranArena,Dalaran Sewers,780309
+618,OrgrimmarArena,The Ring of Valor,789925
+619,Azjol_LowerCity,Ahn'kahet: The Old Kingdom,818056
+620,Transport_Moa'ki_Unu'pe,Transport: Moa'ki to Unu'pe,0
+621,Transport_Moa'ki_Kamagua,Transport: Moa'ki to Kamagua,0
+622,Transport192241,Transport: Orgrim's Hammer,0
+623,Transport192242,Transport: The Skybreaker,0
+624,WintergraspRaid,Vault of Archavon,826589
+627,unused,Unused (DELETE ME),856557
+628,IsleofConquest,Isle of Conquest,821811
+631,IcecrownCitadel,Icecrown Citadel,820428
+632,IcecrownCitadel5Man,The Forge of Souls,818965
+637,AbyssalMaw,Abyssal Maw Exterior,814762
+638,Gilneas,Gilneas,782283
+641,Transport_AllianceAirshipBG,Transport: Alliance Airship BG,0
+642,Transport_HordeAirshipBG,Transport: HordeAirshipBG,0
+643,AbyssalMaw_Interior,Throne of the Tides,814875
+644,Uldum,Halls of Origination,817800
+645,BlackRockSpire_4_0,Blackrock Caverns,813034
+646,Deephome,Deepholm,816934
+647,Transport_Orgrimmar_to_Thunderbluff,Transport: Orgrimmar to Thunder Bluff,0
+648,LostIsles,LostIsles,787837
+649,ArgentTournamentRaid,Trial of the Crusader,818173
+650,ArgentTournamentDungeon,Trial of the Champion,817987
+651,ElevatorSpawnTest,ElevatorSpawnTest,0
+654,Gilneas2,Gilneas2,782341
+655,GilneasPhase1,GilneasPhase1,782644
+656,GilneasPhase2,GilneasPhase2,782667
+657,SkywallDungeon,The Vortex Pinnacle,817086
+658,QuarryofTears,Pit of Saron,827056
+659,LostIslesPhase1,Lost Isles Volcano Eruption,788585
+660,Deephomeceiling,Deephome Ceiling,855573
+661,LostIslesPhase2,Lost Isles Town in a Box,788648
+662,Transport197195,Transport: Alliance Vashj'ir Ship,0
+668,HallsOfReflection,Halls of Reflection,818690
+669,BlackwingDescent,Blackwing Descent,813052
+670,GrimBatolDungeon,Grim Batol,815686
+671,GrimBatolRaid,The Bastion of Twilight,814552
+672,Transport197347,Transport: The Skybreaker (Icecrown Citadel Raid),0
+673,Transport197348,Transport: Orgrim's Hammer (Icecrown Citadel Raid),0
+674,Transport197349-2,Transport: Ship to Vashj'ir,0
+712,Transport197349,Transport: The Skybreaker (IC Dungeon),0
+713,Transport197350,Transport: Orgrim's Hammer (IC Dungeon),0
+718,Transport201834,Transport: The Mighty Wind (Icecrown Citadel Raid),0
+719,MountHyjalPhase1,Mount Hyjal Phase 1,788845
+720,Firelands1,Firelands,816444
+721,Firelands2,Firelands Terrain 2,816538
+723,Stormwind,Stormwind,790924
+724,ChamberofAspectsRed,The Ruby Sanctum,821024
+725,DeepholmeDungeon,The Stonecore,816583
+726,CataclysmCTF,Twin Peaks,813068
+727,STV_Mine_BG,Silvershard Mines,810604
+728,TheBattleforGilneas,The Battle for Gilneas (Old City Map),869311
+730,MaelstromZone,Maelstrom Zone,816998
+731,DesolaceBomb,Stonetalon Bomb,780791
+732,TolBarad,Tol Barad,815182
+734,AhnQirajTerrace,Ahn'Qiraj Terrace,818455
+736,TwilightHighlandsDragonmawPhase,Twilight Highlands Dragonmaw Phase,791346
+738,Transport200100,Ship to Vashj'ir (Orgrimmar -> Vashj'ir),0
+739,Transport200101,Vashj'ir Sub - Horde,0
+740,Transport200102,Vashj'ir Sub - Alliance,0
+741,Transport200103,Twilight Highlands Horde Transport,0
+742,Transport203729,Vashj'ir Sub - Horde - Circling Abyssal Maw,0
+743,Transport203730,Vashj'ir Sub - Alliance circling Abyssal Maw,0
+746,UldumPhaseOasis,Uldum Phase Oasis,791398
+747,Transport 203732,Transport: Deepholm Gunship,0
+748,Transport203858,Transport: Onyxia/Nefarian Elevator,0
+749,Transport203859,Transport: Gilneas Moving Gunship,0
+750,Transport203860,Transport: Gilneas Static Gunship,0
+751,RedgridgeOrcBomb,Redridge - Orc Bomb,790674
+752,RedridgeBridgePhaseOne,Redridge - Bridge Phase One,790697
+753,RedridgeBridgePhaseTwo,Redridge - Bridge Phase Two,790705
+754,SkywallRaid,Throne of the Four Winds,817149
+755,UldumDungeon,Lost City of the Tol'vir,817548
+757,BaradinHold,Baradin Hold,814917
+759,UldumPhasedEntrance,Uldum Phased Entrance,791375
+760,TwilightHighlandsPhasedEntrance,Twilight Highlands Phased Entrance,791359
+761,Gilneas_BG_2,The Battle for Gilneas,782690
+762,Transport 203861,Twilight Highlands Zeppelin 1,0
+763,Transport 203862,Twilight Highlands Zeppelin 2,0
+764,UldumPhaseWreckedCamp,Uldum - Phase Wrecked Camp,791406
+765,Transport203863,Krazzworks Attack Zeppelin,0
+766,Transport 2033864,Transport: Gilneas Moving Gunship 02,0
+767,Transport 2033865,Transport: Gilneas Moving Gunship 03,0
+859,Zul_Gurub5Man,Zul'Gurub,815855
+860,NewRaceStartZone,The Wandering Isle,789076
+861,FirelandsDailies,Molten Front,815281
+870,HawaiiMainLand,Pandaria,805681
+930,ScenarioAlcazIsland,A Dark Place,810354
+938,COTDragonblight,End Time,813090
+939,COTWarOfTheAncients,Well of Eternity,813203
+940,TheHourOfTwilight,Hour of Twilight,817173
+951,NexusLegendary,Nexus Legendary,817062
+959,ShadowpanHideout,Shado-Pan Monastery,810232
+960,EastTemple,Temple of the Jade Serpent,806233
+961,StormstoutBrewery,Stormstout Brewery,810358
+962,TheGreatWall,Gate of the Setting Sun,810651
+967,DeathwingBack,Dragon Soul,813251
+968,EyeoftheStorm2.0,Rated Eye of the Storm,782100
+971,JadeForestAllianceHubPhase,Jade Forest Alliance Hub Phase,811017
+972,JadeForestBattlefieldPhase,Jade Forest Battlefield Phase,811025
+974,DarkmoonFaire,Darkmoon Faire,780357
+975,TurtleShipPhase01,Turtle Ship Phase 01,791300
+976,TurtleShipPhase02,Turtle Ship Phase 02,791323
+977,MaelstromDeathwingFight,Maelstrom Deathwing Fight,816928
+980,TolVirArena,Tol'Viron Arena,817420
+994,MoguDungeon,Mogu'shan Palace,811448
+995,MoguInteriorRaid,The Depths [UNUSED],810384
+996,MoguExteriorRaid,Terrace of Endless Spring,811511
+998,ValleyOfPower,Temple of Kotmogu,812887
+999,BFTAllianceScenario,Theramore's Fall (H),814960
+1000,BFTHordeScenario,Theramore's Fall (A),815493
+1001,ScarletSanctuaryArmoryAndLibrary,Scarlet Halls,805031
+1004,ScarletMonasteryCathedralGY,Scarlet Monastery,805002
+1005,BrewmasterScenario01,A Brewing Storm,808160
+1007,NewScholomance,Scholomance,804980
+1008,MogushanPalace,Mogu'shan Vaults,812395
+1009,MantidRaid,Heart of Fear,811209
+1010,MistsCTF3,CTF3,870976
+1011,MantidDungeon,Siege of Niuzao Temple,808873
+1014,MonkAreaScenario,Peak of Serenity,812460
+1019,RuinsOfTheramore,Ruins of Theramore,812470
+1024,PandaFishingVillageScenario,Greenstone Village,811933
+1028,MoguRuinsScenario,(UNUSED) Scenario: Mogu Ruins,809095
+1029,AncientMoguCryptScenario,(UNUSED) Scenario: Mogu Crypt,805433
+1030,AncientMoguCyptDestroyedScenario,Crypt of Forgotten Kings,805640
+1031,ProvingGroundsScenario,Arena of Annihilation,812075
+1032,PetBattleJadeForest,Pet Battle - Jade Forest,812041
+1035,ValleyOfPowerScenario,Temple of Kotmogu,812951
+1043,RingOfValorScenario,Brawl'gar Arena,827085
+1048,BrewmasterScenario03,Unga Ingoo,805599
+1049,BlackOxTempleScenario,(UNUSED) Scenario: Black Ox Temple,805658
+1050,ScenarioKlaxxiIsland,Assault on Zan'vess,811327
+1051,ScenarioBrewmaster04,Brewmoon Festival,809976
+1060,LevelDesignLand-DevOnly,Level Design Land - Dev Only,868064
+1061,HordeBeachDailyArea,Horde Beach Daily Area,808210
+1062,AllianceBeachDailyArea,Alliance Beach Daily Area,805966
+1064,MoguIslandDailyArea,Mogu Island Daily Area,846981
+1066,StormwindGunshipPandariaStartArea,Stormwind Gunship Pandaria Start Area,791052
+1074,OrgrimmarGunshipPandariaStart,Orgrimmar Gunship Pandaria Start,789973
+1075,TheramoreScenarioPhase,Theramore's Fall Phase,791277
+1076,JadeForestHordeStartingArea,Jade Forest Horde Starting Area,811033
+1095,HordeAmbushScenario,Dagger in the Dark,808356
+1098,ThunderIslandRaid,Throne of Thunder,848548
+1099,NavalBattleScenario,Naval Battle Scenario,811854
+1101,DefenseOfTheAleHouseBG,Defense Of The Ale House BG,842186
+1102,HordeBaseBeachScenario,Domination Point,808508
+1103,AllianceBaseBeachScenario,Lion's Landing,805389
+1104,ALittlePatienceScenario,A Little Patience,807455
+1105,GoldRushBG,Deepwind Gorge (Legacy),845538
+1106,JainaDalaranScenario,Jaina Dalaran Scenario,811612
+1107,WarlockArea,Dreadscar Rift,848152
+1112,BlackTempleScenario,Pursuing the Black Harvest,806915
+1113,DarkmoonCarousel,Transport: DarkmoonCarousel,0
+1116,Draenor,Draenor,842315
+1120,ThunderKingHordeHub,Thunder King Horde Hub,846613
+1121,ThunderIslandAllianceHub,Thunder Island Alliance Hub,848029
+1122,CitySiegeMoguIslandProgressionScenario,City Siege - Mogu Island Progression Scenario,844357
+1123,LightningForgeMoguIslandProgressionScenario,Lightning Forge - Mogu Island Progression Scenario,845419
+1124,ShipyardMoguIslandProgressionScenario,Shipyard - Mogu Island Progression Scenario,847843
+1125,AllianceHubMoguIslandProgressionScenario,Alliance Hub - Mogu Island Progression Scenario,842025
+1126,HordeHubMoguIslandProgressionScenario,Mogu Island Progression Events,844121
+1127,FinalGateMoguIslandProgressionScenario,Final Gate - Mogu Island Progression Scenario,845282
+1128,MoguIslandEventsHordeBase,Mogu Island Events - Horde Base,847937
+1129,MoguIslandEventsAllianceBase,Mogu Island Events - Alliance Base,847934
+1130,ShimmerRidgeScenario,Blood in the Snow,848851
+1131,DarkHordeScenario,The Secrets of Ragefire,846484
+1132,Transport218599,Transport: The Skybag (Brawl'gar Arena),0
+1133,Transport218600,Transport: Zandalari Ship (Mogu Island),0
+1134,ShadoPanArena,The Tiger's Peak,848418
+1135,MoguIslandLootRoom,Mogu Island Loot Room,848741
+1136,OrgrimmarRaid,Siege of Orgrimmar,847443
+1144,HeartOfTheOldGodScenario,Heart of the Old God Scenario,844626
+1148,ProvingGrounds,Proving Grounds,849996
+1152,FWHordeGarrisonLevel1,FW Horde Garrison Level 1,876612
+1153,FWHordeGarrisonLevel2,FW Horde Garrison Level 3,876623
+1154,FWHordeGarrisonLevel3,FW Horde Garrison Level 4,876609
+1155,Stormgarde Keep,Stromgarde Keep,876745
+1157,HalfhillScenario,Halfhill Scenario,879398
+1158,SMVAllianceGarrisonLevel1,SMV Alliance Garrison Level 1,879512
+1159,SMVAllianceGarrisonLevel2,SMV Alliance Garrison Level 3,879360
+1160,SMVAllianceGarrisonLevel3,SMV Alliance Garrison Level 4,879511
+1161,CelestialChallenge,Celestial Tournament,879578
+1166,SmallBattlegroundA,Small Battleground A,899027
+1168,ThePurgeOfGrommarScenario,The Purge Of Grommar - Scenario,902997
+1169,SmallBattlegroundB,Small Battleground B,904434
+1170,SmallBattlegroundC,Shado-Pan Showdown,904354
+1171,SmallBattlegroundD,Small Battleground D,904542
+1172,Transport_Siege_of_Orgrimmar_Alliance,Transport: Siege of Orgrimmar (Alliance),0
+1173,Transport_Siege_of_Orgrimmar_Horde,Transport: Siege of Orgrimmar (Horde),0
+1175,OgreCompound,Bloodmaul Slag Mines,918585
+1176,MoonCultistHideout,Shadowmoon Burial Grounds,918647
+1179,WarcraftHeroes,Warcraft Heroes,921695
+1181,PattyMackTestGarrisonBldgMap,PattyMack Test Garrison Bldg Map,926423
+1182,DraenorAuchindoun,Auchindoun,925674
+1187,GORAllianceGarrisonLevel1,GOR Alliance Garrison Level 1,937665
+1188,GORAllianceGarrisonLevel2,GOR Alliance Garrison Level 2,937664
+1189,GORAllianceGarrisonLevel3,GOR Alliance Garrison Level 3,937703
+1190,BlastedLands,Blasted Lands Phase,937712
+1191,Ashran,Ashran,939189
+1192,Transport_Iron_Horde_Gorgrond_Train,Transport: Gorgrond Train,0
+1195,WarWharfSmackdown,Iron Docks,940438
+1200,BonetownScenario,Bonetown Scenario,942641
+1203,FrostfireFinaleScenario,Frostfire Finale Scenario,944673
+1205,BlackrockFoundryRaid,Blackrock Foundry,946488
+1207,TaladorIronHordeFinaleScenario,The Battle for Shattrath,949655
+1208,BlackrockFoundryTrainDepot,Grimrail Depot,949905
+1209,ArakkoaDungeon,Skyreach,950475
+1212,6HU_GARRISON_Blacksmithing_hub,Garrison - Alliance - Blacksmith 3,952203
+1213,alliance_garrison_alchemy,Garrison - Alliance - Alchemy 1,952277
+1214,alliance_garrison_enchanting,Garrison - Alliance - Enchanting 3,952276
+1215,garrison_alliance_engineering,Garrison - Alliance - Engineering 3,952375
+1216,garrison_alliance_farmhouse,Garrison - Alliance - Farm1,952224
+1217,garrison_alliance_inscription,Garrison - Alliance - Inscription 1,952336
+1218,garrison_alliance_jewelcrafting,Garrison - Alliance - Jewelcrafting 1,952218
+1219,garrison_alliance_leatherworking,Garrison - Alliance - Leatherworking 1,952225
+1220,Troll Raid,Broken Isles,957721
+1221,garrison_alliance_mine_1,Garrison - Alliance Mine 1,952357
+1222,garrison_alliance_mine_2,Garrison - Alliance Mine 2,952384
+1223,garrison_alliance_mine_3,Garrison - Alliance Mine 3,952367
+1224,garrison_alliance_stable_1,Garrison - Alliance Stable 1,952316
+1225,garrison_alliance_stable_2,Garrison - Alliance Stable 2,952261
+1226,garrison_alliance_stable_3,Garrison - Alliance Stable 3,952444
+1227,garrison_alliance_tailoring,Garrison - Alliance - Tailoring 3,952305
+1228,HighmaulOgreRaid,Highmaul,952250
+1229,garrison_alliance_inn_1,Garrison - Alliance - Inn 1,952405
+1230,garrison_alliance_barn,Garrison - Alliance - Barn 1,952366
+1231,Transport227523,Transport: Wavemurder Barge,0
+1232,GorHordeGarrisonLevel0,GOR Horde Garrison Level 0,953470
+1233,GORHordeGarrisonLevel3,GOR Horde Garrison Level 3,953504
+1234,TALAllianceGarrisonLevel0,TAL Alliance Garrison Level 0,953521
+1235,TALAllianceGarrisonLevel3,TAL Alliance Garrison Level 3,953511
+1236,TALHordeGarrisonLevel0,TAL Horde Garrison Level 0,953458
+1237,TALHordeGarrisonLevel3,TAL Horde Garrison Level 3,953516
+1238,SOAAllianceGarrison0,SOA Alliance Garrison Level 0,953501
+1239,SOAAllianceGarrison3,SOA Alliance Garrison Level 3,953482
+1240,SOAHordeGarrison0,SOA Horde Garrison Level 0,953519
+1241,SOAHordeGarrison3,SOA Horde Garrison Level 3,953472
+1242,NAGAllianceGarrisonLevel0,NAG Alliance Garrison Level 0,953462
+1243,NAGAllianceGarrisonLevel3,NAG Alliance Garrison Level 3,953514
+1244,NAGHordeGarrisonLevel0,NAG Horde Garrison Level 0,953484
+1245,NAGHordeGarrisonLevel3,NAG Horde Garrison Level 3,953468
+1247,garrison_alliance_armory1,Garrison - Alliance - Armory 1,959580
+1248,garrison_alliance_barracks1,Garrison - Alliance - Barracks 1,959582
+1249,garrison_alliance_engineering1,Garrison - Alliance - Engineering 1,959577
+1250,alliance_garrison_herb_garden1,Alliance - Garrison - Herb Garden 1 (UNUSED),959579
+1251,alliance_garrison_inn1,Alliance - Garrison - Inn 1 DONT USE,959589
+1252,garrison_alliance_lumbermill1,Garrison - Alliance - Lumbermill 1,959584
+1253,alliance_garrison_magetower1,Garrison - Alliance - Mage Tower 1,959559
+1254,garrison_alliance_pet_stable1,Garrison - Alliance - Sparring Arena 1,959561
+1255,garrison_alliance_salvageyard1,Garrison - Alliance - Salvage Yard 1,959586
+1256,garrison_alliance_storehouse1,Garrison - Alliance - StoreHouse 1,959591
+1257,garrison_alliance_trading_post1,Garrison - Alliance - Trading Post 1,959593
+1258,garrison_alliance_tailoring1,Garrison - Alliance - Tailoring 1,959708
+1259,garrison_alliance_enchanting,Garrison - Alliance - Enchanting 1,959712
+1260,garrison_alliance_blacksmith1,Garrison - Alliance - Blacksmith 1,959715
+1261,garrison_alliance_plot_small,Garrison - Alliance - Plot Small,959872
+1262,garrison_alliance_plot_medium,Garrison - Allilance - Plot Medium,959867
+1263,garrison_alliance_plot_large,Garrison - Alliance - Plot Large,959873
+1264,Propland-DevOnly,Propland - Dev Only,961674
+1265,TanaanJungleIntro,Tanaan Jungle Intro,965680
+1266,CircleofBloodScenario,Circle of Blood Scenario,966076
+1268,TerongorsConfrontation,Teron'gor's Confrontation,967706
+1270,devland3,Development Land 3,971859
+1273,nagrand_garrison_camp_stable_2,Nagrand - Garrison Camp - Stable2,973064
+1277,DefenseOfKaraborScenario,Defense of Karabor,975919
+1278,garrison_horde_barracks1,Garrison - Horde - Barracks 1,978892
+1279,ShaperDungeon,The Everbloom,979038
+1280,TrollRaid2,Southshore vs. Tarren Mill,980348
+1281,garrison_horde_alchemy1,Garrison - Horde - Alchemy 1,980306
+1282,garrison_horde_armory1,Garrison - Horde - Armory 1,980212
+1283,garrison_horde_barn1,Garrison - Horde - Barn 1,980294
+1284,garrison_horde_blacksmith1,Garrison - Horde - Blacksmith 1,980341
+1285,garrison_horde_enchanting1,Garrison - Horde - Enchanting 1,980291
+1286,garrison_horde_engineering1,Garrison - Horde - Engineering 1,980188
+1287,garrison_horde_inn1,Garrison - Horde - Inn 1,980156
+1288,garrison_horde_inscription1,Garrison - Horde - Inscription 1,980363
+1289,garrison_horde_jewelcrafting1,Garrison - Horde - Jewelcrafting 1,980254
+1290,garrison_horde_leatherworking1,Garrison - Horde - Leatherworking 1,980247
+1291,garrison_horde_lumbermill1,Garrison - Horde - Lumbermill 1,980155
+1292,garrison_horde_magetower1,Garrison - Horde - Mage Tower 1,980387
+1293,garrison_horde_mine1,Garrison - Horde - Mine 1,980224
+1294,garrison_alliance_petstabe,Garrison - Horde - Pet Stable 1,980302
+1295,garrison_horde_salvageyard1,Garrison - Horde - Salvage Yard 1,980178
+1296,garrison_horde_sparringarena1,Garrison - Horde - Sparring Arena 1,980282
+1297,garrison_horde_stable1,Garrison - Horde - Stable 1,980395
+1298,garrison_horde_storehouse1,Garrison - Horde Storehouse 1,980313
+1299,garrison_horde_tailoring1,Garrison - Horde - Tailoring 1,980318
+1300,garrison_horde_tradingpost1,Garrison - Horde - Trading Post 1,980389
+1301,garrison_horde_workshop1,Garrison - Horde - Workshop 1,980392
+1302,garrison_alliance_workshop1,Garrison - Alliance - Workshop 1,981568
+1303,garrison_horde_farm1,Garrison - Horde - Farm1,982149
+1304,garrison_horde_plot_large,Garrison - Horde - Plot Large,982141
+1305,garrison_horde_plot_medium,Garrison - Horde - Plot Medium,982146
+1306,garrison_horde_plot_small,Garrison - Horde - Plot Small,982138
+1307,TanaanJungleIntroForgePhase,Tanaan Jungle Intro - Forge Phase,984166
+1308,garrison_horde_fishing1,Garrison - Horde - Fishing 1,984841
+1309,garrison_alliance_fishing1,Garrison - Alliance - Fishing 1,984838
+1310,Expansion5QAModelMap,Expansion 5 QA Model Map,987207
+1311,outdoorGarrisonArenaHorde,Outdoor Garrison - Arena - Horde (NEEDS WMO),994759
+1312,outdoorGarrisonArenaAlliance,Outdoor Garrison - Arena - Alliance (NEEDS WMO),994747
+1313,outdoorGarrisonLumberMillAlliance,Outdoor Garrison - Lumber Mill - Alliance,994776
+1314,outdoorGarrisonLumberMillHorde,Outdoor Garrison - Lumber Mill - Horde,994780
+1315,outdoorGarrisonArmoryHorde,Outdoor Garrison - Armory - Horde,994756
+1316,outdoorGarrisonArmoryAlliance,Outdoor Garrison - Armory - Alliance,994777
+1317,outdoorGarrisonMageTowerHorde,Outdoor Garrison - Mage Tower - Horde,994745
+1318,outdoorGarrisonMageTowerAlliance,Outdoor Garrison - Mage Tower - Alliance,994749
+1319,outdoorGarrisonStablesHorde,Outdoor Garrison - Stables - Horde,994757
+1320,outdoorGarrisonStablesAlliance,Outdoor Garrison - Stables - Alliance,994765
+1321,outdoorGarrisonWorkshopHorde,Outdoor Garrison - Workshop - Horde,994771
+1322,outdoorGarrisonWorkshopAlliance,Outdoor Garrison - Workshop - Alliance,994783
+1323,outdoorGarrisonInnHorde,Outdoor Garrison - Inn - Horde,994750
+1324,outdoorGarrisonInnAlliance,Outdoor Garrison - Inn - Alliance,994767
+1325,outdoorGarrisonTradingPostHorde,Outdoor Garrison - Tradiing Post 1 - Horde,994744
+1326,outdoorGarrisonTradingPostAlliance,Outdoor Garrison - Tradiing Post - Alliance,994768
+1327,outdoorGarrisonConstructionPlotHorde,"Outdoor Garrison - Construction Plot, Medium - Horde",998092
+1328,outdoorGarrisonConstructionPlotAlliance,"Outdoor Garrison - Construction Plot, Medium - Alliance",999310
+1329,GrommasharScenario,Grommashar Scenario,1001396
+1330,FWHordeGarrisonLeve2new,FW Horde Garrison Level 2,1001652
+1331,SMVAllianceGarrisonLevel2new,SMV Alliance Garrison Level 2,1001653
+1332,garrison_horde_barracks2,Garrison - Horde - Barracks 2,1001914
+1333,garrison_horde_armory2,Garrison - Horde - Armory 2,1001918
+1334,garrison_horde_barn2,Garrison - Horde - Barn 2,1001901
+1335,garrison_horde_inn2,Garrison - Horde - Inn 2,1001897
+1336,garrison_horde_lumbermill2,Garrison - Horde - Lumbermill 2,1001912
+1337,garrison_horde_magetower2,Garrison - Horde - Mage Tower 2,1001899
+1338,garrison_horde_petstable2,Garrison - Horde - Pet Stable 2,1001919
+1339,garrison_horde_stable2,Garrison - Horde - Stable 2,1001909
+1340,garrison_horde_tradingpost2,Garrison - Horde - Trading Post 2,1002183
+1341,garrison_horde_workshop2,Garrison - Horde - Workshop 2,1002173
+1342,garrison_horde_barracks3,Garrison - Horde - Barracks 3,1002168
+1343,garrison_horde_armory3,Garrison - Horde - Armory 3,1002167
+1344,garrison_horde_barn3,Garrison - Horde - Barn 3,1002169
+1345,garrison_horde_inn3,Garrison - Horde - Inn 3,1002174
+1346,garrison_horde_magetower3,Garrison - Horde - Mage Tower 3,1002184
+1347,garrison_horde_petstable3,Garrison - Horde - Pet Stable 3,1002194
+1348,garrison_horde_stable3,Garrison - Horde - Stable 3,1002179
+1349,garrison_horde_tradingpost3,Garrison - Horde - Trading Post 3,1002193
+1350,garrison_horde_workshop3,Garrison - Horde - Workshop 3,1002165
+1351,Garrison_Alliance_Large_Construction,Garrison - Alliance - Large - Construction,1006099
+1352,Garrison_Alliance_Medium_Construction,Garrison - Alliance - Medium - Construction,1006096
+1353,Garrison_Horde_Large_Construction,Garrison - Horde - Large - Construction,1006095
+1354,Garrison_Horde_Medium_Construction,Garrison - Horde - Medium - Construction,1006094
+1358,UpperBlackRockSpire,Upper Blackrock Spire,1018796
+1361,garrisonAllianceMageTower2,Garrison - Alliance - Mage Tower 2,1020441
+1362,garrisonAllianceMageTower3,Garrison - Alliance - Mage Tower 3,1020446
+1363,garrison_horde_mine2,Garrison - Horde - Mine 2,1021362
+1364,garrison_horde_mine3,Garrison - Horde - Mine 3,1021366
+1367,garrison_alliance_workshop2,Garrison - Alliance - Workshop 2,1024292
+1368,garrison_alliance_workshop3,Garrison - Alliance - Workshop 3,1024291
+1369,garrison_alliance_lumbermill2,Garrison - Alliance - Lumbermill 2,1025564
+1370,garrison_alliance_lumbermill3,Garrison - Alliance - Lumbermill 3,1025574
+1371,Garrison_Horde_Small_Construction,Garrison - Horde - Small - Construction,1025572
+1372,Garrison_Alliance_Small_Construction,Garrison - Alliance - Small - Construction,1025560
+1374,AuchindounQuest,Auchindoun Quest,1028018
+1375,alliance_garrison_alchemy_rank2,Garrison - Alliance - Alchemy 2,1030201
+1376,alliance_garrison_alchemy_rank3,Garrison - Alliance - Alchemy 3,1030640
+1377,garrison_alliance_blacksmith2,Garrison - Alliance - Blacksmith 2,1030629
+1378,garrison_alliance_enchanting2,Garrison - Alliance - Enchanting 2,1030630
+1379,garrison_alliance_engineering2,Garrison - Alliance - Engineering 2,1030623
+1380,garrison_alliance_inscription2,Garrison - Alliance - Inscription 2,1030626
+1381,garrison_alliance_inscription3,Garrison - Alliance - Inscription 3,1030628
+1382,garrison_alliance_jewelcrafting2,Garrison - Alliance - Jewelcrafting 2,1030764
+1383,garrison_alliance_jewelcrafting3,Garrison - Alliance - Jewelcrafting 3,1030765
+1384,garrison_alliance_leatherworking2,Garrison - Alliance - Leatherworking 2,1030944
+1385,garrison_alliance_leatherworking3,Garrison - Alliance - Leatherworking 3,1030947
+1386,garrison_alliance_tailoring2,Garrison - Alliance - Tailoring 2,1031182
+1387,garrison_alliance_storehouse2,Garrison - Alliance - StoreHouse 2,1031191
+1388,garrison_alliance_storehouse3,Garrison - Alliance - StoreHouse 3,1031188
+1389,garrison_horde_storehouse2,Garrison - Horde Storehouse 2,1031189
+1390,garrison_horde_storehouse3,Garrison - Horde Storehouse 3,1031195
+1391,garrison_alliance_salvageyard2,Garrison - Alliance - Salvage Yard 2,1031543
+1392,garrison_alliance_salvageyard3,Garrison - Alliance - Salvage Yard 3,1031545
+1393,garrison_horde_lumbermill3,Garrison - Horde - Lumbermill 3,1031546
+1394,garrison_alliance_pet_stable2,Garrison - Alliance - Sparring Arena 2,1031651
+1395,garrison_alliance_pet_stable3,Garrison - Alliance - Sparring Arena 3,1031656
+1396,garrison_alliance_trading_post2,Garrison - Alliance - Trading Post 2,1031778
+1397,garrison_alliance_trading_post3,Garrison - Alliance - Trading Post 3,1031776
+1398,garrison_alliance_barn2,Garrison - Alliance - Barn 2,1032286
+1399,garrison_alliance_barn3,Garrison - Alliance - Barn 3,1032290
+1400,garrison_alliance_inn_2,Garrison - Alliance - Inn 2,1032618
+1401,garrison_alliance_inn_3,Garrison - Alliance - Inn 3,1032621
+1402,GorgrondFinaleScenario,Gorgrond Finale,1033841
+1403,garrison_alliance_barracks2,Garrison - Alliance - Barracks 2,1033925
+1404,garrison_alliance_barracks3,Garrison - Alliance - Barracks 3,1033927
+1405,garrison_alliance_armory2,Garrison - Alliance - Armory 2,1035026
+1406,garrison_alliance_armory3,Garrison - Alliance - Armory 3,1035029
+1407,GorgrondFinaleScenarioMap,zzzOld,1042410
+1409,garrison_horde_sparringarena2,Garrison - Horde - Sparring Arena 2,1042721
+1410,garrison_horde_sparringarena3,Garrison - Horde - Sparring Arena 3,1042825
+1411,garrison_horde_alchemy2,Garrison - Horde - Alchemy 2,1042829
+1412,garrison_horde_alchemy3,Garrison - Horde - Alchemy 3,1042822
+1413,garrison_horde_blacksmith2,Garrison - Horde - Blacksmith 2,1043522
+1414,garrison_horde_blacksmith3,Garrison - Horde - Blacksmith 3,1043519
+1415,garrison_horde_enchanting2,Garrison - Horde - Enchanting 2,1043510
+1416,garrison_horde_enchanting3,Garrison - Horde - Enchanting 3,1043517
+1417,garrison_horde_inscription2,Garrison - Horde - Inscription 2,1043507
+1418,garrison_horde_inscription3,Garrison - Horde - Inscription 3,1043506
+1419,garrison_horde_leatherworking2,Garrison - Horde - Leatherworking 2,1043788
+1420,garrison_horde_leatherworking3,Garrison - Horde - Leatherworking 3,1043801
+1421,garrison_horde_jewelcrafting2,Garrison - Horde - Jewelcrafting 2,1043789
+1422,garrison_horde_jewelcrafting3,Garrison - Horde - Jewelcrafting 3,1043800
+1423,garrison_horde_tailoring2,Garrison - Horde - Tailoring 2,1043790
+1424,garrison_horde_tailoring3,Garrison - Horde - Tailoring 3,1043778
+1425,garrison_horde_salvageyard2,Garrison - Horde - Salvage Yard 2,1043796
+1426,garrison_horde_salvageyard3,Garrison - Horde - Salvage Yard 3,1043793
+1427,PattyMackTestGarrisonBldgMap2,PattyMack Test Garrison Bld Map2,1045409
+1429,garrison_horde_engineering2,Garrison - Horde - Engineering 2,1052563
+1430,garrison_horde_engineering3,Garrison - Horde - Engineering 3,1052566
+1431,SparringArenaLevel3Stadium,The Coliseum,1059195
+1432,garrison_horde_fishing2,Garrison - Horde - Fishing 2,1063275
+1433,garrison_horde_fishing3,Garrison - Horde - Fishing 3,1063274
+1434,garrison_alliance_fishing2,Garrison - Alliance - Fishing 2,1063439
+1435,garrison_alliance_fishing3,Garrison - Alliance - Fishing 3,1063440
+1437,garrison_alliance_petstable1,Garrison - Alliance - Pet Stable 1,1066964
+1438,garrison_alliance_petstable2,Garrison - Alliance - Pet Stable 2,1066969
+1439,garrison_alliance_petstable3,Garrison - Alliance - Pet Stable 3,1066966
+1440,garrison_alliance_infirmary1,Garrison - Alliance - Infirmary 1,1066967
+1441,garrison_alliance_infirmary2,Garrison - Alliance - Infirmary 2,1066975
+1442,garrison_alliance_infirmary3,Garrison - Alliance - Infirmary 3,1066963
+1446,outdoorGarrisonConstructionPlotAllianceLarge,"Outdoor Garrison - Construction Plot, Large - Alliance",1085120
+1447,outdoorGarrisonConstructionPlotHordeLarge,"Outdoor Garrison - Construction Plot, Large - Horde",1085117
+1448,HellfireRaid62,Hellfire Citadel,1086771
+1451,TanaanLegionTest,Tanaan Legion Test,1091261
+1453,ScourgeofNorthshire,Scourge of Northshire,1093483
+1454,ArtifactAshbringerOrigin,The Broken Shore (old - delete),1093754
+1455,EdgeofRealityMount,Edge of Reality,1093835
+1456,NagaDungeon,Eye of Azshara,1094973
+1457,FXlDesignLand-DevOnly,Test Dungeon,1096332
+1458,7_DungeonExteriorNeltharionsLair,Neltharion's Lair,1097290
+1459,Transport_The_Iron_Mountain,Transport: The Iron Mountain,0
+1460,BrokenShoreScenario,Broken Shore Scenario,1098373
+1461,AzsunaScenario,Azsuna Scenario,1101662
+1462,IllidansRock,Illidans Rock,1106852
+1463,HelhiemExteriorArea,Helhiem Exterior Area,1106912
+1464,TanaanJungle,Tanaan Jungle,1107657
+1465,TanaanJungleNoHubsPhase,Tanaan Jungle - No Hubs Phase,1108558
+1466,Emerald_Nightmare_ValSharah_exterior,Darkheart Thicket,1109691
+1468,WardenPrison,Warden Prison DH Quests,1114070
+1469,MaelstromShaman,The Heart of Azeroth,1114310
+1470,Legion Dungeon,Legion Dungeon,1115399
+1471,1466,Dungeon Test Map 1466,1115474
+1473,GarrisonAllianceShipyard,Garrison - Alliance - Shipyard,1116019
+1474,GarrisonHordeShipyard,Garrison - Horde - Shipyard,1116016
+1475,TheMawofNashal,The Maw of Nashal,1118480
+1476,Transport_The_Maw_of_Nashal,Transport: The Maw of Nashal,0
+1477,Valhallas,Halls of Valor,1119384
+1478,ValSharahTempleofEluneScenario,The Temple of Elune,1121237
+1479,WarriorArtifactArea,Skyhold,1123541
+1480,DeathKnightArtifactArea,Icecrown Citadel,1122982
+1481,legionnexus,Mardum,1123497
+1482,GarrisonShipyardAllianceSubmarine,Garrison Shipyard - Submarine - Alliance,1125974
+1483,GarrisonShipyardAllianceDestroyer,Garrison Shipyard - Destroyer - Alliance,1125966
+1484,GarrisonShipyardTransport,Garrison Shipyard - Transport,1125971
+1485,GarrisonShipyardDreadnaught,Garrison Shipyard - Battleship - Alliance,1125957
+1486,GarrisonShipyardCarrier,Garrison Shipyard - Carrier - Horde,1125945
+1487,GarrisonShipyardHordeSubmarine,Garrison Shipyard - Submarine - Horde,1125956
+1488,GarrisonShipyardHordeDestroyer,Garrison Shipyard - Destroyer - Horde,1125969
+1489,Artifact-PortalWorldAcqusition,Niskara,1128496
+1492,Helheim,Maw of Souls,1132517
+1493,WardenPrisonDungeon,Vault of the Wardens,1132492
+1494,AcquisitionVioletHold,The Violet Hold,1133654
+1495,AcquisitionWarriorProt,Shield's Rest,1134318
+1496,GarrisonShipyardCarrierAlliance,Garrison Shipyard - Carrier - Alliance,1134086
+1497,GarrisonShipyardGalleonHorde,Garrison Shipyard - Battleship - Horde,1135235
+1498,AcquisitionHavoc,Felsoul Hold,1135430
+1499,Artifact-Warrior Fury Acquisition,oldArtifact - Warrior Fury Acquisition,1138322
+1500,ArtifactPaladinRetAcquisition,Broken Shore,1140061
+1501,BlackRookHoldDungeon,Black Rook Hold,1238745
+1502,DalaranUnderbelly,Dalaran Underbelly,1243553
+1503,ArtifactShamanElementalAcquisition,Deepholm,1243571
+1504,BlackrookHoldArena,Black Rook Hold Arena,1244360
+1505,NagrandArena2,Nagrand Arena,1245900
+1509,BloodtotemCavernFelPhase,Bloodtotem Cavern - Fel Phase,1249320
+1510,BloodtotemCavernTaurenPhase,Bloodtotem Cavern - Tauren Phase,1249322
+1511,Artifact-WarriorFuryAcquisition,Tideskorn Harbor,1249463
+1512,Artifact-PriestHunterOrderHall,Netherlight Temple,1249597
+1513,Artifact-MageOrderHall,Hall of the Guardian,1249553
+1514,Artifact-MonkOrderHall,The Wandering Isle,1249576
+1515,HulnHighmountain,Huln's War,1251166
+1516,SuramarCatacombsDungeon,The Arcway,1252371
+1517,StormheimPrescenarioWindrunner,Stormheim Prescenario Windrunner,1252508
+1518,StormheimPrescenarioSkyfire,Stormheim Prescenario Skyfire,1252500
+1519,ArtifactsDemonHunterOrderHall,The Fel Hammer,1253648
+1520,NightmareRaid,The Emerald Nightmare,1253821
+1522,ArtifactWarlockOrderHallScenario,Dreadscar Rift,1260944
+1523,MardumScenario,Defense of the Fel Hammer Scenario,1263825
+1526,Artifact-WhiteTigerTempleAcquisition,Temple of the White Tiger,1270355
+1527,HighMountain,High Mountain Scenario,1270716
+1528,Artifact-SkywallAcquisition,Skywall,1271513
+1529,KarazhanScenario,Karazhan,1271904
+1530,SuramarRaid,The Nighthold,1273016
+1532,HighMountainMesa,High Mountain Mesa Scenario,1275494
+1533,Artifact-KarazhanAcquisition,Karazhan Catacombs,1278032
+1534,Artifact-DefenseofMoongladeScenario,Moonglade,2449139
+1535,DefenseofMoongladeScenario,Moonglade,1278949
+1536,UrsocsLairScenario,Ursocs Lair,1278826
+1537,BoostExperience,zzOLD - Boost Experience,1279833
+1538,Karazhan Scenario,test,2449140
+1539,Artifact-AcquisitionArmsHolyShadow,Tirisfal Glades,1281459
+1540,Artifact-Dreamway,Emerald Dreamway,1283013
+1541,Artifact-TerraceofEndlessSpringAcquisition,Terrace of Endless Spring,1303183
+1544,LegionVioletHoldDungeon,Assault on Violet Hold,1304759
+1545,Artifact-Acquisition-CombatResto,Azsuna,1305527
+1547,Artifacts-CombatAcquisitionShip,Artifact - Combat - Acquisition Ship,2449141
+1549,TechTestSeamlessWorldTransitionA,Tech Test - Seamless World Transition A,1307907
+1550,TechTestSeamlessWorldTransitionB,Tech Test - Seamless World Transition B,1307908
+1552,ValsharahArena,Ashamane's Fall,1309335
+1553,Artifact-Acquisition-Underlight,Gloaming Reef,1309499
+1554,BoostExperience2,7.0 Boost Experience - Alliance,1309733
+1555,TransportBoostExperienceAllianceGunship,zzOLD - Transport: Boost Experience - Alliance Gunship,2449142
+1556,TransportBoostExperienceHordeGunship,zzOLD - Transport: Boost Experience - Horde Gunship,2449143
+1557,BoostExperience2Horde,7.0 Boost Experience - Horde,1310051
+1559,TransportBoostExperienceHordeGunship2,7.0 Transport: Boost Experience - Horde Gunship,0
+1560,TransportBoostExperienceAllianceGunship2,7.0 Transport: Boost Experience - Alliance Gunship,0
+1561,TechTestCosmeticParentPerformance,Tech Test - Cosmetic Parent Performance,1310608
+1571,SuramarCityDungeon,Court of Stars,1315461
+1572,MaelstromShamanHubIntroScenario,The Maelstrom,1319015
+1579,UdluarScenario,Ulduar,1325930
+1580,MaelstromTitanScenario,The Maelstrom,1326466
+1582,Artifact�DalaranVaultAcquisition,Delete,2449144
+1583,Artifact-DalaranVaultAcquisition,Nexus Vault,1327887
+1584,JulienTestLand-DevOnly,Julien Test Land,1327920
+1586,AssualtOnStormwind,Assault on Stormwind,1328459
+1588,DevMapA,Dev Map - A - Jared Coulston,1328944
+1589,DevMapB,Dev Map - B - Nathaniel Chapman,1328956
+1590,DevMapC,Dev Map - C - Julien Tremblay,1328959
+1591,DevMapD,Dev Map - D - PotT,1328958
+1592,DevMapE,Dev Map - E,1329020
+1593,DevMapF,Dev Map - F,1329025
+1594,DevMapG,The MOTHERLODE!!,1329067
+1599,ArtifactRestoAcqusition,Nordrassil,1332714
+1600,ArtifactThroneoftheTides,Throne of the Tides,1334632
+1602,SkywallDungeon_OrderHall,Artifact - The Vortex Pinnacle - Shaman Order Hall,1336050
+1603,AbyssalMaw_Interior_Scenario,Throne of the Tides Scenario(DELETE),2449145
+1604,Artifact-PortalWorldNaskora,Artifact - Order Campaign - Portal World Niskara,1340655
+1605,FirelandsArtifact,Firelands_Artifact,1344269
+1607,ArtifactAcquisitionSubtlety,Artifact - Acquisition - Subtlety,1345504
+1608,Hyjal Instance,Hyjal War of the Ancients Quest,1354093
+1609,AcquisitionTempleofstorms,Temple of Storms,1358017
+1610,Artifact-SerenityLegionScenario,Artifact - Serenity Legion Scenario,1360075
+1611,DeathKnightCampaign-LightsHopeChapel,Death Knight Campaign - Light's Hope Chapel,1369037
+1612,TheRuinsofFalanaar,The Ruins of Falanaar,1370726
+1616,Faronaar,Faronaar,1374093
+1617,DeathKnightCampaign-Undercity,Death Knight Campaign - Undercity,1375793
+1618,DeathKnightCampaign-ScarletMonastery,Death Knight Campaign - Scarlet Monastery,1375889
+1620,ArtifactStormwind,Artifact - Stormwind,1377489
+1621,BlackTemple-Legion,Black Temple - Legion,1378055
+1622,IllidanTemp,Telogrus Rift Scenario,1381605
+1623,MageCampaign-TheOculus,Mage Campaign - The Oculus,1383393
+1624,BattleofExodar,Battle of Exodar,1383625
+1625,TrialoftheSerpent,Trial of the Serpent,1387170
+1626,TheCollapseSuramarScenario,The Collapse - Suramar Scenario,1389386
+1627,FelHammerDHScenario,Fel Hammer DH Scenario,2449146
+1628,Transport251513,Transport: Alliance Battleship,0
+1629,NetherlightTemplePrison,Netherlight Temple,1394350
+1630,TolBarad1,Tol Barad,1395634
+1632,TheArcwaySuramarScenario,The Arcway - Suramar Scenario,1398800
+1637,TransportAllianceShipPhaseableMO,Transport: Alliance Ship PhaseableMO,0
+1638,TransportHordeShipPhaseableMO,Transport: Horde Ship PhaseableMO,0
+1639,TransportKvaldirShipPhaseableMO,Transport: Kvaldir Ship PhaseableMO,0
+1642,Zandalar,Zandalar,1436413
+1643,KulTiras,Kul Tiras,1433921
+1644,PlunderIsle,Plunder Isle,1440315
+1645,Islands,Crescent Isle (Islands Prototype),1444256
+1646,BlackRookSenario,Black Rook Hold [Scenario],1446568
+1647,VoljinsFuneralPyre,Vol'jin's Funeral Pyre,1777356
+1648,Helhiem2,Trial of Valor,1447924
+1649,Transport254124,Transport: Horde Battleship,0
+1650,Acherus,Legion Command Ship Transport,1777267
+1651,Karazahn1,Return to Karazhan,1453131
+1653,LightsHeart,Great Dark Beyond,1467292
+1655,8DevLand,8.0 Dev Land,1492884
+1657,BladesEdgeArena2,zzOldBlade's Edge Arena,1496187
+1658,EnvironmentLandDevOnly,Environment Art Land - Dev Only,1498241
+1661,Gnoll Revolution,[DEV] Demo Map,1506722
+1662,SuramarEndScenario,Suramar,1512034
+1663,DungeonBlockout,Dungeon Blockout,1510960
+1666,BrokenShoreIntro,The Assault on Broken Shore,1515095
+1667,LegionShipVertical,Legion Ship - Vertical,1515286
+1668,LegionShipHorizontal,Legion Ship - Horizontal,1515295
+1669,Argus 1,Argus,1516755
+1670,BrokenshorePristine,Broken Shore (Delete),1516083
+1671,BrokenShorePrepatch,Broken Shore - Prepatch 7.2 (Backup),1516357
+1672,bladesedgearena2b,Blade's Edge Arena,1517581
+1673,EyeofEternityScenario,The Eye of Eternity - Scenario,1518035
+1675,WinterAB,Winter AB_old,1522385
+1676,TombofSargerasRaid,Tomb of Sargeras,1532459
+1677,TombofSargerasDeungeon,Cathedral of Eternal Night,1536793
+1678,ABPhase1,AB Phase 1,1524817
+1679,ABPhase2,AB Phase 2,1524716
+1680,ABPhase3,AB Phase 3,1777334
+1681,ABWinter,Arathi Basin Winter,1524403
+1682,ArtifactsDemonHunterOrderHallPhase,The Fel Hammer Terrain Phase,1527026
+1683,ArtifactGnomeregan,Artifact - Gnomeregan,1526661
+1684,dreadscarriftwarlockplatform,Dread Scar Rift - Warlock Scenario Platform,1530364
+1685,AITestMap8,AI Test Map 8,1531026
+1686,AITestMap8b,AI Test - Arathi Basin,1533837
+1687,WailingCavernsPetBattle,Wailing Caverns,1530808
+1688,DeadminesPetBattle,Deadmines,1538471
+1689,EyeofEternityMageClassMount,The Eye of Eternity - Mage Class Mount,1530966
+1690,SnakeCave,Snake Cave,1531726
+1691,CookingImpossible,Cooking: Impossible,1535693
+1692,PitofSaronDeathKnight,Pit of Saron - Death Knight Campaign,1537230
+1693,MardumScenarioClientScene,Stormstout Brewery - Monk Scenario,1537717
+1694,GnomereganPetBattle,Gnomeregan,1538553
+1695,BrokenShoreBattleshipFinale,Battleship: Ruin,1543351
+1696,LegionCommandCenter,Legion - Command Center,1777281
+1697,LegionSpiderCave,Legion - Legion Spider Cave,1777275
+1698,ArtifactAcquisitionTank,Artifact - Acquisition - Tank,1544153
+1699,LegionFelCave,Legion - Legion Fel Cave,1777328
+1700,LegionFelFirenovaArea,Legion - Legion Fel Firenova Area,1777322
+1701,LegionBarracks,Legion - Legion Barracks,1777316
+1702,ArtifactHighmountainDualBoss,Artifact - Highmountain - Dual Boss,1548191
+1703,HallsofValorScenario,Halls of Valor - Scenario,1548957
+1704,LegionShipHorizontalValsharah,Legion Ship - Horizontal - Valsharah,1550329
+1705,LegionShipHorizontalAzsuna,Legion Ship - Horizontal - Azsuna,1561525
+1706,LegionShipHorizontalHighMountain,Legion Ship - Vertical - HighMountain,1561487
+1707,LegionShipHorizontalStormheim,Legion Ship - Vertical - Stormheim,1561550
+1708,StratholmePaladinClassMount,Stratholme - Paladin Class Mount,1551840
+1710,BlackRookHoldArtifactChallenge,Black Rook Hold - Artifact Challenge,1561681
+1711,SouthseaPirateShip715BoatHoliday,Alliance Submarine (7.1.5 Boat Holiday),0
+1712,ArgusRaid,"Antorus, the Burning Throne",1569154
+1714,HallsOfValorWarriorClassMount,Halls Of Valor - Warrior Class Mount,1570457
+1715,BlackrockMountainBrawl,Battle for Blackrock Mountain,1570599
+1716,brokenshorewardentower,Broken Shore Mage Tower,1777304
+1717,AnimPlayground,Anim Playground,1571856
+1718,Nazjatar,Nazjatar,1574136
+1719,warlockmountscenario,Dread Scar Rift - Warlock Mount Scenario,1573557
+1723,ColdridgeValley,Coldridge Valley,1576633
+1726,RaceTrackBG,[TEMP] RaceTrackBG,1579037
+1728,HallsofValorHunterScenario,Halls of Valor,1579362
+1729,EyeofEternityMageClassMountShort,The Eye of Eternity - Mage Class Mount (Shorter Version),1579593
+1730,ShrineofAvianaDefenseScenario,Shrine of Aviana Defense - Scenario,1583240
+1731,DruidMountFinaleScenario,Druid Mount Finale - Scenario,1583279
+1732,FelwingLedgeDemonHunterClassMount,Felwing Ledge - Demon Hunter Class Mount,1584314
+1733,AzerothsWarningScenario,Azeroth's Warning Scenario,1585040
+1734,ThroneoftheFourWindsShamanClassMounts,Throne of the Four Winds - Shaman Class Mount,1585873
+1735,DKMountScenario,Frozen Wastes,1586010
+1736,RubySanctumDKMountScenario,The Ruby Sanctum,1586117
+1737,AkazamarakHatScenario,Pocket Dimension Akazamzaraks Hat Scenario,1586908
+1738,LostGlacierDKMountScenario,The Lost Glacier,1590424
+1739,AITestMapABDebug,AI Test Map - Arathi Basin - Debug Version,1593818
+1740,AITestMapWSGDebug,AI Test - Warsong Gulch,1593733
+1741,ExodarDalaran,The Vindicaar,1777298
+1744,MogWeek,Trial of Style,1601575
+1746,ArcatrazScenario,Tempest Keep: The Arcatraz,1603401
+1747,animationplayground,Animation Playground,1603713
+1749,WarfrontBarrens,Warfront Barrens,1608197
+1750,Azuremyst Isle (7.3 Intro),Azuremyst Isle,1610885
+1751,AllianceBattleship73Intro,Alliance Battleship (7.3 Intro),2449133
+1752,SunstriderShip73Intro,Sunstrider Battleship (7.3 Intro),2449137
+1753,ArgusDungeon,Seat of the Triumvirate,1618081
+1754,PirateTownDungeon,Freehold,1618501
+1756,ChromieScenario,The Deaths of Chromie,1619285
+1759,Transport_WarfrontBarrensGunship,Transport: WarfrontBarrensGunship,0
+1760,LordaeronScenario,Lordaeron,1629013
+1762,CityofGoldInteriorDungeon,Kings' Rest,1660008
+1763,CityofGoldExteriorDungeon,Atal'Dazar,1659857
+1764,EndlessHallsScenario,Endless Halls,1661384
+1765,WarfrontsPrototype,Warfronts Prototype,1661884
+1771,KulTirasPrison,Tol Dagor,1663684
+1773,VoildElf,Shadow of Azeroth,1669000
+1774,LightforgedDraenei,Forge of Aeons,1669055
+1775,HighmountainMaw,Maw of N'Zoth,1777229
+1776,OrgrimmarEmbassy,Horde Battleship - The Banshee's Wail,1777223
+1778,ArgusRifts,Level Design Land,1670532
+1779,Argus_Rifts,Invasion Points,1670743
+1780,Islands8,Islands LD Playground,1672153
+1782,SilithusBG,Seething Strand,1673777
+1784,PA_SMALL_CAVE01_Pristine_A,8.0 Islands - Cave - Hozen [Dev/Not Used],2449152
+1785,Islands_Pirateship_Plank,8.0 Islands - Ship - Pirateship,2449153
+1786,Islands_Transport_Horde_Zeppelin,8.0 Islands - Zeppelin - Goblin,2449154
+1787,Islands_PA_Mogu_Crypt_07,8.0 Islands - Micro - Mogu Crypt,2449155
+1788,Islands_6AS_Cave_01,8.0 Islands - Cave - Primitve [Dev/Not Used],2449156
+1789,Islands_Saurok_Cave_Large,8.0 Islands - Cave - Saurok - Large [Dev/Not Used],1777310
+1795,ShwayderLand,Vale of Eternal Blossoms,1680166
+1802,AzeriteBG,8.0 BG Temp,1685798
+1803,AzeriteBG1,Seething Shore,1686724
+1804,WarfrontsPrototype3,The Battle for Stromgarde,1693564
+1805,Islands_7HU_Transport_Alliance_Battleship01,8.0 Islands - Event,2449157
+1806,StormwindEmbassy,Alliance Battleship -  Wind's Redemption,1777211
+1807,Islands_6OR_Horde_Ship01,8.0 Islands - Event,2449158
+1809,MechagnomeIsland,Mechagnome Island,1697398
+1811,QuestTraining,Quest Training,1697819
+1812,SuramarNightborneUnlock,Suramar,1699486
+1813,Islands801,Un'gol Ruins (Islands 1),1702779
+1814,Islands802,Havenswood (Islands 2),1705997
+1815,Silithus,Silithus Phase,1708051
+1817,SilithusPhase01,Silithus: The Wound,1711065
+1818,SilvermoonCity,Silvermoon City,1711924
+1822,BoralusDungeon,Siege of Boralus,1721709
+1825,KulTirasArena,Hook Point,1712797
+1839,KarazanChess,Karazan Chess,1720699
+1840,SunwellUnlockScenario,The Sunwell,1721446
+1841,UnderrotDungeon,The Underrot,1721901
+1844,Islands_7FK_Forsaken_Ship03,8.0 Islands - Event,1777259
+1845,Islands_7VR_Vrykul_Ship01,8.0 Islands - Event,1777253
+1846,Islands_6HU_Transport_Cargoship,8.0 Islands - Ship - 6HU Cargoship,1777247
+1847,Dev Map  G,Dev Map - G,1727578
+1849,Islands_ND_ICEBREAKER_SHIP_BG_TRANSPORT,8.0 Islands - Event,1777200
+1850,Islands_6HU_Transport_Buccaneer,8.2.5 - MSEM - 1850,1777194
+1851,Islands_7FK_Transport_Buccaneer,8.0 Islands - Ship - 7FK Buccaneer,1777188
+1852,Islands_Horde_Submarine,8.0 Islands - Ship - Player Horde - Submarine [Dev/Not Used],1777177
+1853,Islands_Alliance_Submarine,8.0 Islands - Event,1777165
+1854,Islands_7VS_Cavemicro03,8.0 Islands - Cave - 7VS Cave Micro 03 [Dev/Not Used],1777171
+1855,LightforgedVindicaar,The Vindicaar,2449138
+1856,TransportAzeriteBGAllianceAirship,Transport: Azerite BG - Alliance Airship,0
+1857,TransportAzeriteBGHordeGunship,Transport: Azerite BG - Horde Gunship,0
+1860,LightforgedDraeneiVindicaar,The Vindicaar,1757750
+1861,NazmirRaid,Uldir,1778295
+1862,DrustvarDungeon,Waycrest Manor,1780520
+1863,BLTestMap,BL - Test Map,1782594
+1864,SeaPriestDungeon,Shrine of the Storm,1784882
+1865,VoidElfHub,Telogrus Rift,1795847
+1876,WarfrontsArathi,Warfronts Arathi - Horde,1803607
+1877,SnakeDungeon,Temple of Sethraliss,1810984
+1878,BlackrockDepthsDarkIron,zzOLD_Blackrock Depths,2204823
+1879,rymoore,Jorundall (Islands 7),1819921
+1880,TitanIsland,8.0 Islands - Titan Island - Prototype,1820954
+1881,Islands9,8.0 Islands - Sinkhole - Prototype,1821100
+1882,Islands10,Verdant Wilds (Islands 8),1821204
+1883,Islands01,Whispering Reef (Islands 10),1821844
+1884,SiegeOfOrgrimmarZone,Siege of Orgrimmar - Mag'har Orc Unlock Scenario,1822089
+1885,Islands803,8.0 Islands - White Mesa - Prototype,1825112
+1886,Islands_7VR_Swamp_Prototype,8.0 Islands - Swamp - Prototype,2449172
+1887,Islands_7VR_Swamp_Prototype2,8.0 Islands - Swamp - Prototype,1825427
+1888,Islands888,8.0 Islands Josh,1826038
+1889,Islands666,8.0 Islands - Katalina - Prototype,1827425
+1890,AssassinsScenarioDRU,8.0 Assassins Scenario - Drustvar,1830197
+1891,Islands805,8.0 Islands - Cursed - Prototype,1831750
+1892,Islands11,The Rotting Mire (Islands 9),1832179
+1893,NecromancyIsland,The Dread Chain (Islands 4),1838370
+1895,Islands1106,8.0 Islands - lost World Prototype,1840578
+1896,Islands420,8.0 Islands - Wonderland - Prototype,1840906
+1897,Islands24,Molten Cay (Islands 6),1841511
+1898,Islands22,Skittering Hollow (Islands 5),1845569
+1899,Islands23,8.0 Islands - Junker Gnome Caverns - Prototype,1845519
+1900,Silithus_Airship_Alliance,This Map Was Made In The Wrong Branch - Re-use If Needed,2449173
+1901,Silithus_Airship_Horde,This Map Was Made In The Wrong Branch - Re-use If Needed,2449174
+1902,SilithusAllianceGunship,Silithus Alliance Gunship,2449147
+1903,SilithusHordeGunship,Silithus Horde Gunship,2449148
+1904,escapefromstockades,Stormwind Escape from Stockades,1858956
+1906,zandalarcontinentfinale,Zandalar Continent Finale,1860054
+1907,Islands_Panderan_Farm,Snowblossom Village (Islands 3),1868260
+1909,TransportKulTirasBridgeportShip,[UNUSED] Transport: Kul Tiras - Bridgeport,0
+1910,TransportKulTirasBridgeportMaidens,Transport: Kul Tiras - Bridgeport - The Maiden's Virtue,2449161
+1911,ZandalariArena,Mugambala,1890596
+1912,Islands_7az_cave02,8.0 Islands - Cave - 7AZ Cave 02 [Dev/Not Used],2449168
+1913,PhaseableMONazmirTriangulationPlatform,PhaseableMO: Nazmir - Triangulation Platform,2449169
+1916,PhaseableMONazmirShipWorldQuest,PhaseableMO: Nazmir - Ship World Quest,2449181
+1917,GorgrondOrcs,Gorgrond - Mag'har Scenario,1923857
+1918,Kalimdor 2,Kalimdor Darkshore Phase,1938745
+1919,Islands_KL_Skywall_Entrance_Building_03,8.0 Islands - Platform - KL Skywall Entrance Building 03,2449177
+1920,Islands_MD_Flamegate_E,8.0 Islands - Platform - MD Flamegate E,2449162
+1921,Islands_8HU_Kultiras_ShipMedium01,8.0 Islands - Ship - Player Alliance - Kul'Tiras Medium 01 With Gangplank,2449163
+1922,Islands_8TR_Zandalari_ShipMediumTransport01,8.0 Islands - Ship - Player Horde - Zandalari Medium 01 With Gangplank,2449164
+1923,Islands_Deepholm_Mercury_Pool01,8.0 Islands - Platform - Deepholm Mercury Pool 01,2449165
+1924,Islands_7AZ_Vashjir_Small_Cave_A,8.0 Islands - Platform - 7AZ Vashjir Small Cave A,2449166
+1925,DevMapH,Dev Map - H,1949764
+1926,KulTiranFlagship,8.1.5 Allies - Kul Tiran Flagship (JAK),2449167
+1927,ZandalariFlagship,Zandalari Flagship,2449170
+1929,HallOfCommunion(Destroyed),Chamber of Heart,1962585
+1930,ZandalarAllianceIntroScenerio,Zandalar Alliance Intro Scenario,1965630
+1931,LordaeronBlight,Lordaeron Blight,1967057
+1932,BlackrockDepthsDarkIron2,Blackrock Depths - Dark Iron Scenario,1968206
+1934,Islands_8KUL_CaveMicro_freehold01,8.0 Islands - Cave - 8KUL_CaveMicro_freehold01 [Dev/Not Used],2449182
+1935,Islands_8KUL_CaveMicro01,8.0 Islands - Cave - 8KUL_CaveMicro01,2449183
+1936,Islands_8KUL_CaveMicro02,8.0 Islands - Cave - 8KUL_CaveMicro02,2449184
+1937,Islands_8KUL_CaveMicro03,8.0 Islands - Cave - 8KUL_CaveMicro03,2449185
+1938,Islands_8RIV_CaveMicro_01,8.0 Islands - Cave - 8RIV_CaveMicro_01,2449186
+1939,Islands_8RIV_CaveMicro_02,8.0 Islands - Cave - 8RIV_CaveMicro_02,2449187
+1940,StormwindEmbassyVoldunStatic,Alliance Battleship -  Wind's Redemption Voldun,2449178
+1941,TransportNazmirRaidElevator,Transport: Nazmir Raid Elevator,0
+1942,MoltenCoreDarkIron,Molten Core,1970812
+1943,WarfrontsArathi - Alliance,Warfronts Arathi - Alliance,1971287
+1944,ScenarioThrosDeathRealm,"Thros, The Blighted Lands",1987982
+1945,ArathiHighlands2,Arathi Highlands 2,1993307
+1946,ProtoShips,Prototype - Ships,1997283
+1947,TransportProtoAllianceShip,Transport: Proto - Alliance Ship,0
+1948,TransportProtoHordeShip,Transport: Proto - Horde Ship,0
+1949,8BoostExperienceAlliance,8.0 Boost Experience - Alliance,2009461
+1950,8BoostExperienceHorde,8.0 Boost Experience - Horde,2009497
+1951,8TransportBoostExperienceAllianceGunship,8.0 Transport: Boost Experience - Alliance Gunship,0
+1952,8TransportBoostExperienceHordeGunship,8.0 Transport: Boost Experience - Horde Gunship,0
+1953,Islands_demigod_dome_living,8.0 Islands - Platform - demigod dome living,2449175
+1954,GreatSea,The Great Sea Alliance,2020075
+1955,ScenarioIslandsTutorial,Uncharted Island,2019944
+1956,Islands_Hot_OldGod_03,8.0 Islands - Platform - Hot Old God 03,2449179
+1957,Islands_OldGod,8.0 Islands - Platform - Old God,2449180
+1958,ZandalariTransportShip,The Golden Skipper - Zandalari Transport Ship,0
+1959,ZandalariTransportShipLarge,Zandalari Transport Ship Large,0
+1962,GoblinShipFinal,Goblin Ship Final,0
+1963,DevMapI,Dev Map - I,2103280
+1964,WarCampaignHordeCh05Flagship,PhaseableMO: War Campaign - Horde - Chapter 05 - Kul Tiras Flagship,2449171
+1965,WarCampaignHordeCh05Ship,PhaseableMO: War Campaign - Horde - Chapter 05 - Kul Tiras Ship,2449176
+2066,GreatSeaHorde,The Great Sea Horde,2101826
+2067,GralsCall,Zandalari Battleship - Gral's Call,2449194
+2068,TirisfalGladesPhase01,[Not Used],2449193
+2069,zuldazaralliancebombingrun,Zuldazar Alliance Bombing Run,2449189
+2070,Zandalarraid,Battle of Dazar'alor,2122014
+2074,8TransportBoralusStormwind,8.0 Transport: Boralus to Stormwind,0
+2075,Islands_7DU_Helheim_Ghostship,8.0 Islands - Event,2449190
+2076,FirelandsDarkIron,Firelands - Dark Iron Dwarf,2127601
+2077,Islands_ULDUM_INTERIOR_PYRAMID,8.0 Islands - Event,2449191
+2078,Islands_ULDUM_LARGE_PYRAMID_01,8.0 Islands - Event,2449192
+2081,BlackrockDepthsDarkIronHub,Blackrock Depths - Dark Iron Dwarf Hub,2131533
+2082,Islands_PA_Mogu_Crypt_01,8.0 Islands - Micro - Mogu Crypt,2449195
+2083,Islands_PA_Mogu_Crypt_02,8.0 Islands - Micro - Mogu Crypt,2449196
+2084,Islands_PA_Mogu_Crypt_03,8.0 Islands - Micro - Mogu Crypt,2449197
+2085,Islands_PA_Mogu_Crypt_04,8.0 Islands - Micro - Mogu Crypt,2449198
+2086,Islands_PA_Mogu_Crypt_05,8.0 Islands - Micro - Mogu Crypt,2449199
+2087,Islands_PA_Mogu_Crypt_06,8.0 Islands - Micro - Mogu Crypt,2449200
+2088,Islands_PA_Mogu_Crypt_08,8.0 Islands - Micro - Mogu Crypt,2449201
+2094,8TransportBoralusCanals,8.0 Transport: Boralus Canals,0
+2095,8TransportBoralusSound,8.0 Transport: Boralus Sound,0
+2096,SeaPriestRaid,Crucible of Storms,2148959
+2097,MechagonDungeon,Operation: Mechagon,2150695
+2101,8TransportBoralusBarge,8.0 Transport: Boralus Barge,0
+2102,8TransportBoralusShipSmall,8.0 Transport: Boralus Ship Small,0
+2103,DarkshorePrepatchDarnassianShipCosmetic,Darkshore Prepatch Darnassian Ship,2449188
+2105,WarfrontsDarkshoreAlliance,Warfronts Darkshore - Alliance,2204745
+2106,WarsongGulch2,Warsong Gulch,2205463
+2107,ArathiBasin2,Arathi Basin,2205417
+2109,IncursionAirshipHorde,8.1.0 Incursion Airship Horde,2449203
+2110,IncursionAirshipAlliance,8.1.0 Incursion Airship Alliance,2449204
+2111,WarfrontsDarkshoreHorde,Warfronts Darkshore - Horde,2268682
+2112,9DevLand,9.0 Dev Land,2280617
+2114,Scourge Procedural Dungeon,Maw Prototype,2314213
+2115,DarkshoreTyrandeScenario,8.1 Darkshore Scenario,2317283
+2116,Islands7,8.0 Islands - Event,2449205
+2117,NZoth,NZoth,2339391
+2118,WintergraspEpic,Battle for Wintergrasp,2334062
+2119,TransportCookingImpossibleAllianceBalloon,Transport: Cooking: Impossible - Hot Air Balloon - Alliance,0
+2120,TransportCookingImpossibleHordeBalloon,Transport: Cooking: Impossible - Hot Air Balloon - Horde,0
+2122,N�Zoth,DELETE,2449202
+2123,SeaPriestDungeonQuests,Shrine of the Storm Quests,2350754
+2124,Crestfall,Crestfall (Islands 11),2353051
+2125,ZandalariTreasury,Zandalari Treasury,2355286
+2127,AbandonedMines,Abandoned Mines,2366712
+2128,DaggerRealm,Dagger Realm,2368135
+2129,DarkshoreHordeQuests,8.1 Darkshore Horde Quests,2373017
+2130,Questfall,Questfall,2374525
+2131,DarkshoreOutdoorPhase,8.1 Darkshore Outdoor Final Phase,2393025
+2132,9DevLand2,9.0 Dev Land 2,2396656
+2134,TolDagorScenario,Tol Dagor Scenario,2397997
+2135,DevSmoketest,Dev Smoketest,2399368
+2136,ZuldazarRaidShipTransport,Transport: Zuldazar Raid Ship,0
+2143,Mechagon,DO NOT USE [Deprecated],2438745
+2145,Transport312214,Transport: Night Elf Warship,0
+2146,Transport312215,Transport: Forsaken Warship,0
+2147,2147,Icecrown Citadel (8.1),2447688
+2155,2155,Halls of Stone Scenario,2451869
+2156,2156,Visions of N'Zoth - Prototype,2451736
+2160,2160,Maw Prototype - Dragonblight,2461708
+2161,2161,Maw Prototype - Torment Chambers,2461951
+2162,2162,"Torghast, Tower of the Damned",2461919
+2163,2163,Gnomeregan Scenario,2458539
+2164,2164,The Eternal Palace,2475876
+2165,2165,SpawnedMO: Night Elf Warship,2486841
+2166,2166,Transport: Zuldazar Raid Boralus Ship,0
+2167,2167,The Robodrome,2488187
+2168,2168,"Level Design Process, Techniques and Resources",2488279
+2169,2169,Uldir Scenario,2492269
+2170,2170,Tauren Heritage Scenario,2493099
+2174,2174,"Scarlet Halls, Dark Ranger",2574522
+2175,2175,9.0 NPE (New Player Experience) - Exile's Reach,2577041
+2176,2176,SpawnedMO: Forsaken Ship Large,2578977
+2177,2177,Arathi Basin Comp Stomp,2618489
+2178,2178,The Prison of Ink,2622917
+2179,2179,Stratholme Pet Dungeon,2687175
+2180,2180,The Dreamgrove (Hearthstone Tavern),2687690
+2186,2186,The Obsidian Sanctum - 8.2 Magni - Heart of Azeroth,2743738
+2187,2187,Halls of Origination,2743739
+2193,2193,Galakrond's Fall,2746890
+2194,2194,Hearthstone Tavern,2751184
+2195,2195,Hearthstone Tavern,2752780
+2197,2197,Korrak's Revenge,2763698
+2205,2205,9.0 Transport: Zone Transition Test,0
+2207,2207,Neltharion's Lair - HoA Scenario,2819978
+2208,2208,Eastern Kingdoms - Vermillion Redoubt - HoA Scenario,2819979
+2209,2209,Emerald Dream - HoA Scenario,2819980
+2210,2210,Siege of Orgrimmar - Coup Scenario,2821940
+2211,2211,Gilneas - Worgen Heritage Scenario,2827797
+2212,2212,Horrific Vision of Orgrimmar,2828486
+2213,2213,Horrific Vision of Stormwind,2828487
+2214,2214,The Maelstrom - Heart of Azeroth,2832121
+2215,2215,Chamber of Heart - Repaired,2832122
+2217,2217,"Ny'alotha, the Waking City",2842322
+2218,2218,"Dummy Map (Dev and empty, use if you want)",2852003
+2222,2222,The Shadowlands,2852007
+2223,2223,The Eye of Eternity - HoA Scenario,2887359
+2224,2224,Programmer Map - Continent,2905476
+2225,2225,Programmer Map - Dungeon,2905477
+2226,2226,Programmer Map - Battlefield,2905478
+2227,2227,Programmer Map - Raid,2905479
+2228,2228,Programmer Map - Scenario,2905482
+2230,2230,9.0 Prototype - Seamless Teleport - A,2910528
+2231,2231,9.0 Prototype - Seamless Teleport - B,2910534
+2232,2232,Karazhan Catacombs - HoA Scenario,2915729
+2233,2233,Temple of the Jade Serpent - HoA Scenario,2915791
+2234,2234,9.0 Prototype - Seamless Teleport - Transfer Map,2921904
+2235,2235,Caverns of Time - Anniversary,2931534
+2236,2236,Darkmaul Citadel,2956730
+2237,2237,8.2.5 Orgrimmar,2967752
+2240,2240,8.3 Stormheim,2982873
+2241,2241,Uldum,2982874
+2242,2242,Dev Map - K,2984885
+2243,2243,Dev Map - J,2984886
+2245,2245,Deepwind Gorge,2992913
+2246,2246,Solesa Naksu [DNT],2994815
+2247,2247,Mogu'shan Scenario,2997969
+2249,2249,FX Test Dungeon,3007219
+2250,2250,Test Dungeon PvP,3011140
+2254,2254,Cinematics Test Map (Development Map),3028886
+2255,2255,Cinematics Test Map II (Development Map),3028887
+2257,2257,Chamber of Heart - Scenario,3033515
+2258,2258,Crapopolis - Scenario,3035887
+2261,2261,9.0 Transport - NPE - Alliance Battleship,0
+2263,2263,Crapopolis,3038771
+2264,2264,Visions of N'Zoth - Orgrimmar - Engineering Test,3039014
+2266,2266,Blackwing Descent Scenario,3051771
+2267,2267,city,3051905
+2268,2268,Mechagon City,3051906
+2274,2274,Vision of the Twisting Sands,3073642
+2275,2275,Vale of Eternal Twilight,3073643
+2276,2276,9.0 Transport - Maldraxxus Badass Necropolis [TEMP NAME],0
+2277,2277,9.0 SpawnedMO - Maldraxxus Badass Necropolis [TEMP NAME],3074450
+2278,2278,Revendreth Scenario,3074621
+2279,2279,Torghast Test,3076096
+2282,2282,Blackrock Depths - Pet Dungeon,3083220
+2284,2284,Sanguine Depths,3085318
+2285,2285,Spires of Ascension,3095438
+2286,2286,The Necrotic Wake,3095985
+2287,2287,Halls of Atonement,3095986
+2288,2288,Arena of Ascension,3095987
+2289,2289,Plaguefall,3095988
+2290,2290,Mists of Tirna Scithe,3095989
+2291,2291,De Other Side,3095990
+2292,2292,8.3 Epic Battleground - Warfront Arathi (PvP),3148086
+2293,2293,Theater of Pain,3153861
+2294,2294,[NOT USED] Realm,3171088
+2296,2296,Castle Nathria,3177686
+2297,2297,Icecrown Citadel (8.3),3182457
+2300,2300,Redridge - 9xp Bastion,3204638
+2301,2301,Maldraxxus Finale Scenario,3208095
+2304,2304,Ardenweald Tyrande Finale Scenario,3221150
+2305,2305,Bastion Scenario,3222064
+2306,2306,Julien LoD Test,3235315
+2308,2308,Bastion Night Warrior Finale - Ardenweald Covenant Scenario,3257394
+2309,2309,Transport: Torghast Bridge Platform01 Elevator,0
+2354,2354,Ardenweald Covenant Chapter 2 Scenario,3306844
+2355,2355,The Necrotic Wake (Transport),0
+2356,2356,Castle Nathria Scenario,3307710
+2360,2360,Sinfall Scenario,3386514
+2362,2362,Maldraxxus Covenant Finale Scenario,3446043
+2363,2363,9.0 - Ardenweald - Garden (personal map),3449943
+2364,2364,MawTest,3458581
+2365,2365,9.0 Maw - Torghast - 9Maw_Bridge_SmallPlatform01,3478068
+2366,2366,9.0 Maw - Torghast - 9Maw_Zone_WallTurret01,3478069
+2367,2367,9.0 Maw - Torghast - 9Maw_Bridge_Straight03,3482348
+2368,2368,Maldraxxus Broker Islands,3493361
+2369,2369,9.0 NPE - Horde - Starter Transport Ship - (STM),0
+2370,2370,Maldraxxus Arena,3505090
+2371,2371,9.0 Ardenweald Covenant Finale Drust Scenario,3505789
+2373,2373,Bastion Arena,3534288
+2375,2375,9.0 Bastion Arena - Path of Ascension,3557117
